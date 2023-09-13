@@ -53,7 +53,8 @@ function App() {
           
             <Textform showAlert={showAlert} heading="Enter the text to analyze below" mode={mode}/>
           
-   
+   <h1>My Name is muskaan</h1>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias aperiam minima iure deleniti quas blanditiis corrupti nihil hic! Fugiat eaque reprehenderit suscipit non eos velit iure porro natus voluptate soluta.</p>
     </div>
     
     </> 
